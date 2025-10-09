@@ -269,4 +269,4 @@ that you can change in the `config.js` file:
   hourDarkThemeInactive: '07:00', // Turn off the dark theme after this hour and before the above hour
 ```
 
-![](assets/img/darkMode.png)
+![](assets/img/darkMode.png)# baptistedesmedt.github.io
