@@ -11,22 +11,22 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
-	imageBackground: false,
+	name: 'Baptiste',
+	imageBackground: true,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Bon matin Champignon!',
+	greetingAfternoon: 'Bon après-midi Champignon!',
+	greetingEvening: 'Bonsoir Champignon!',
+	greetingNight: 'Bonne nuit Champignon!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '443ec4b72c0cf2e945d5faec89c46791', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -42,9 +42,9 @@ const CONFIG = {
 	changeThemeByOS: true,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
-	changeThemeByHour: false,
-	hourDarkThemeActive: '18:30',
-	hourDarkThemeInactive: '07:00',
+	changeThemeByHour: true,
+	hourDarkThemeActive: '18:00',
+	hourDarkThemeInactive: '08:00',
 
 	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
 	// ├┴┐│ │ │  │ │ ││││└─┐
@@ -174,7 +174,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Slack',
-					link: 'https://www.slack.com',
+					link: 'https://chatgpt.com',
 				},
 			],
 		},
