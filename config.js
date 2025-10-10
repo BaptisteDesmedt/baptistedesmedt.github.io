@@ -140,19 +140,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=R9mQ-yXtl04&t=7s',
 				},
 				{
 					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=UaXRdi-lNLM',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Morning',
+					link: 'https://www.youtube.com/watch?v=Fpu5a0Bl8eY',
 				},
 				{
 					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=mN2VLo-74BE&t=65s',
 				},
 			],
 		},
@@ -161,19 +161,19 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Cloud',
+					link: 'https://drive.google.com/drive/folders/1uqSJkhYtJ0yHL0O9UazCGaCmj3XlNA88',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Ecampus',
+					link: 'https://idp.uliege.be/simplesaml/module.php/multiauthcontext/discovery?AuthState=_d61991743a66a0d1012dc9a293374ee6d34f41b6db%3Ahttps%3A%2F%2Fidp.uliege.be%2Fsimplesaml%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fwww.ecampus.uliege.be%26cookieTime%3D1760090746',
 				},
 				{
 					name: 'Trello',
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
+					name: 'Chatgpt',
 					link: 'https://chatgpt.com',
 				},
 			],
