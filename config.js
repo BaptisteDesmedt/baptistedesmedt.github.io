@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Bon matin Champignon!',
 	greetingAfternoon: 'Bon après-midi Champignon!',
 	greetingEvening: 'Bonsoir Champignon!',
-	greetingNight: 'Bonne nuit Champignon!',
+	greetingNight: 'VA DORMIR CHAMPIGNON !',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -67,13 +67,13 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://www.linkedin.com/',
 		},
 		{
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://www.icloud.com/calendar/',
 		},
 		{
 			id: '5',
