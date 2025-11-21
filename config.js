@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Chatgpt',
-					link: 'https://chatgpt.com',
+					name: 'Gemini',
+					link: 'https://gemini.google.com/app',
 				},
 			],
 		},
