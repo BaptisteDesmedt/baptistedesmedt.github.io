@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'glasses',
-			link: 'https://app.flocus.com/focus',
+			link: 'https://app.fwocus.com/',
 		},
 		{
 			id: '4',
