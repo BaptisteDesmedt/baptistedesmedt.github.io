@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Github',
-			icon: 'github',
+			icon: 'git-commit-horizontal',
 			link: 'https://github.com/',
 		},
 		{
@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'glasses',
-			link: 'https://baptistedesmedt.github.io/Charlie/',
+			link: 'https://app.flocus.com/focus',
 		},
 		{
 			id: '4',
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'play',
 			link: 'https://www.youtube.com/',
 		},
 	],
@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=R9mQ-yXtl04&t=7s',
+					name: 'rap',
+					link: 'https://youtube.com/playlist?list=PLLXYgvOaslhg&si=QkTMqP-30DQktyuB',
 				},
 				{
 					name: 'Classic',
